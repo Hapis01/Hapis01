@@ -8,7 +8,7 @@ Saya memiliki ketertarikan pada:
 - Pengembangan aplikasi berbasis web  
 - Manajemen database & optimasi query  
 - Sistem informasi & pengelolaan data  
-- Pengembangan sistem CRUD untuk kebutuhan administrasi
+- Pengembangan sistem CRUD  
 
 ---
 
@@ -24,8 +24,8 @@ Saya memiliki ketertarikan pada:
 
 ## 📊 GitHub Stats
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=HapisGanzID&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HapisGanzID&layout=compact&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Hapis01&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hapis01&layout=compact&theme=tokyonight" />
 </p>
 
 ---
