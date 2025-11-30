@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text=MHD%20HAFIZ%20BATU%20BARA&width=1000&height=200" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=37F7FF&center=true&vCenter=true&width=600&lines=👋+Halo%2C+Saya+MHD+HAFIZ+BATU+BARA;Front-End+%7C+UI%2FUX+Design+%7C+Web+Developer;Mahasiswa+Manajemen+Informatika" />
 </p>
+
 
 <!-- Banner Animasi (Dikecilkan & Center) -->
 <p align="center">
