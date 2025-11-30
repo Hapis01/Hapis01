@@ -1,9 +1,6 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/denvercoder1/readme-typing-svg/master/public/assets/wave.gif" width="30px" />
-  MHD HAFIZ BATU BARA
-</h1>
-
-
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text=MHD%20HAFIZ%20BATU%20BARA&width=1000&height=200" />
+</p>
 
 <!-- Banner Animasi (Dikecilkan & Center) -->
 <p align="center">
