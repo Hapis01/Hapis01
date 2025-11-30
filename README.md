@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=37F7FF&center=true&vCenter=true&width=650&lines=Halo%2C+Saya+MHD+HAFIZ+BATU+BARA;Front-End+Developer+%7C+UI%2FUX+Designer+%7C+Web+Developer;Fokus+pada+Front-End+dan+Desain+Figma" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=37F7FF&center=true&vCenter=true&width=600&lines=Halo%2C+Saya+MHD+HAFIZ+BATU+BARA;Full-Stack+Developer" />
 </p>
-
-
 
 
 <!-- Banner Animasi (Dikecilkan & Center) -->
