@@ -60,7 +60,7 @@ Saat ini saya aktif mengasah skill berikut:
 ---
 
 ## 🔗 Connect With Me
-<p align="center">
+
   🌐 Website: <a href="https://hafizbatubara.my.id">hafizbatubara.my.id</a>  
   <br>
   💼 LinkedIn: <a href="https://www.linkedin.com/in/muhammad-hafiz-batubara-528301260/">Profil LinkedIn</a>  
@@ -68,10 +68,6 @@ Saat ini saya aktif mengasah skill berikut:
   📸 Instagram: <a href="https://www.instagram.com/hfiz_btubaraa/">@hfiz_btubaraa</a>  
   <br>
   🎧 Discord: **hfizzmq (1355)**
-</p>
+
 
 ---
-
-## 📌 Catatan
-Repositori proyek dan sertifikat akan diperbarui secara bertahap.  
-Terima kasih sudah berkunjung! 🚀
