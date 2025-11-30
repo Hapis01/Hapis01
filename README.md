@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=37F7FF&center=true&vCenter=true&width=600&lines=👋+Halo%2C+Saya+MHD+HAFIZ+BATU+BARA;Front-End+%7C+UI%2FUX+Design+%7C+Web+Developer;Mahasiswa+Manajemen+Informatika" />
-</p>
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #00d4ff, #7a5cff); -webkit-background-clip: text; color: transparent;">
+    MHD HAFIZ BATU BARA
+  </span>
+</h1>
+
 
 <!-- Banner Animasi (Dikecilkan & Center) -->
 <p align="center">
