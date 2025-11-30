@@ -12,12 +12,14 @@
 Saya adalah mahasiswa Manajemen Informatika yang aktif dalam kegiatan organisasi kampus.  
 Saat ini saya menjabat sebagai **Wakil Ketua Himpunan Program Studi Manajemen Informatika** di Politeknik Negeri Medan.
 
-Saya sedang fokus mengembangkan kemampuan pada bidang:
-- **Front-End Development**  
-- **UI/UX & Figma Design**  
-- **Pengembangan aplikasi web modern**  
-- **Manajemen database & optimasi query**  
-- **Pembuatan sistem CRUD profesional**  
+Saya sedang fokus mengembangkan kemampuan dan mengerjakan proyek di bidang:
+
+- **Front-End Development & UI/UX Design** – membangun tampilan web modern, responsif, dan pengalaman pengguna yang optimal.  
+- **Mobile App Development** – membuat aplikasi mobile menggunakan **Flutter** dan **Android Studio (Java)**.  
+- **Web & Database Development** – merancang backend, mengelola database, optimasi query, serta membangun sistem CRUD profesional.  
+- **Full-Stack Development** – integrasi front-end, back-end, dan mobile untuk solusi lengkap.  
+- **Design & Prototyping** – menggunakan **Figma** untuk wireframe, prototype, dan desain UI/UX yang menarik.
+
 
 Saya percaya kombinasi antara *coding skill* dan *design thinking* sangat penting dalam membangun aplikasi yang fungsional sekaligus menarik.
 
