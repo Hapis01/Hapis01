@@ -1,4 +1,4 @@
-# 👋 Halo, saya **MHD HAFIZ BATU BARA**
+# Halo, saya **MHD HAFIZ BATU BARA**
 
 <!-- Banner Animasi -->
 <img align="center" width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
