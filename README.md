@@ -1,8 +1,8 @@
 <h1 align="center">
-  <span style="background: linear-gradient(90deg, #00d4ff, #7a5cff); -webkit-background-clip: text; color: transparent;">
-    MHD HAFIZ BATU BARA
-  </span>
+  <img src="https://raw.githubusercontent.com/denvercoder1/readme-typing-svg/master/public/assets/wave.gif" width="30px" />
+  MHD HAFIZ BATU BARA
 </h1>
+
 
 
 <!-- Banner Animasi (Dikecilkan & Center) -->
