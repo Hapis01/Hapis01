@@ -1,5 +1,8 @@
 # 👋 Halo, saya **MHD HAFIZ BATU BARA**
 
+<!-- Banner Animasi -->
+<img align="center" width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
 ## 🧑‍💻 Tentang Saya
 Saya adalah mahasiswa Manajemen Informatika yang aktif dalam kegiatan organisasi kampus.  
 Saat ini saya menjabat sebagai **Wakil Ketua Himpunan Program Studi Manajemen Informatika** di Politeknik Negeri Medan.
@@ -7,26 +10,30 @@ Saat ini saya menjabat sebagai **Wakil Ketua Himpunan Program Studi Manajemen In
 Saya memiliki ketertarikan pada:
 - Pengembangan aplikasi berbasis web  
 - Manajemen database & optimasi query  
-- Sistem informasi & pengelolaan data  
+- Sistem informasi berbasis data  
 - Pengembangan sistem CRUD  
 
 ---
 
 ## ⚒️ Tech Stack & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap" />
-</p>
-<p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/html.svg" width="40px">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/css.svg" width="40px">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/javascript.svg" width="40px">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/php.svg" width="40px">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/mysql.svg" width="40px">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Hapis01&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hapis01&layout=compact&theme=tokyonight" />
-</p>
+## 🏆 GitHub Trophy
+<img src="https://github-profile-trophy.vercel.app/?username=Hapis01&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+---
+
+## 🔥 GitHub Streak
+<img src="https://streak-stats.demolab.com/?user=Hapis01&theme=tokyonight" />
 
 ---
 
@@ -39,5 +46,5 @@ Saya memiliki ketertarikan pada:
 ---
 
 ## 📌 Catatan
-Repositori proyek dan sertifikat akan saya tampilkan dalam waktu dekat.  
-Stay tuned ya! 🚀
+Repositori proyek dan sertifikat akan ditambahkan menyusul.  
+Terima kasih sudah mampir! 🚀
