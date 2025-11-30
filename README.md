@@ -1,50 +1,74 @@
-# Halo, saya **MHD HAFIZ BATU BARA**
+# 👋 Halo, saya **MHD HAFIZ BATU BARA**
 
-<!-- Banner Animasi -->
-<img align="center" width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<!-- Banner Animasi (Dikecilkan & Center) -->
+<p align="center">
+  <img width="60%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+</p>
 
 ## 🧑‍💻 Tentang Saya
 Saya adalah mahasiswa Manajemen Informatika yang aktif dalam kegiatan organisasi kampus.  
 Saat ini saya menjabat sebagai **Wakil Ketua Himpunan Program Studi Manajemen Informatika** di Politeknik Negeri Medan.
 
-Saya memiliki ketertarikan pada:
-- Pengembangan aplikasi berbasis web  
-- Manajemen database & optimasi query  
-- Sistem informasi berbasis data  
-- Pengembangan sistem CRUD  
+Saya sedang fokus mengembangkan kemampuan pada bidang:
+- **Front-End Development**  
+- **UI/UX & Figma Design**  
+- **Pengembangan aplikasi web modern**  
+- **Manajemen database & optimasi query**  
+- **Pembuatan sistem CRUD profesional**  
+
+Saya percaya kombinasi antara *coding skill* dan *design thinking* sangat penting dalam membangun aplikasi yang fungsional sekaligus menarik.
+
+---
+
+## 🎨 Skills in Progress
+Saat ini saya aktif mengasah skill berikut:
+- 🌐 *Front-End*: Layouting, Responsive Design, Component Structure  
+- 🎨 *Desain*: Figma UI, Wireframe, Prototype, Style Guide  
+- 👁️ *Visual Sense*: Clean UI, Iconography, warna, dan typografi  
 
 ---
 
 ## ⚒️ Tech Stack & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/html.svg" width="40px">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/css.svg" width="40px">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/javascript.svg" width="40px">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/php.svg" width="40px">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/mysql.svg" width="40px">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<p align="center">
+  <!-- Languages & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,cpp" height="48" />
+  <br>
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" height="48" />
+  <br>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,linux,figma" height="48" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=Hapis01&theme=tokyonight&no-frame=true&row=1&column=6" />
+## 🏆 GitHub Trophy (Center)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hapis01&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## 🔥 GitHub Streak
-<img src="https://streak-stats.demolab.com/?user=Hapis01&theme=tokyonight" />
+## 🔥 GitHub Streak (Center)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Hapis01&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔗 Connect With Me
-- 🌐 Website Portfolio: **https://hafizbatubara.my.id**
-- 💼 LinkedIn: **https://www.linkedin.com/in/muhammad-hafiz-batubara-528301260/**
-- 📸 Instagram: **https://www.instagram.com/hfiz_btubaraa/**
-- 🎧 Discord: **hfizzmq (1355)**
+<p align="center">
+  🌐 Website: <a href="https://hafizbatubara.my.id">hafizbatubara.my.id</a>  
+  <br>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/muhammad-hafiz-batubara-528301260/">Profil LinkedIn</a>  
+  <br>
+  📸 Instagram: <a href="https://www.instagram.com/hfiz_btubaraa/">@hfiz_btubaraa</a>  
+  <br>
+  🎧 Discord: **hfizzmq (1355)**
+</p>
 
 ---
 
 ## 📌 Catatan
-Repositori proyek dan sertifikat akan ditambahkan menyusul.  
-Terima kasih sudah mampir! 🚀
+Repositori proyek dan sertifikat akan diperbarui secara bertahap.  
+Terima kasih sudah berkunjung! 🚀
